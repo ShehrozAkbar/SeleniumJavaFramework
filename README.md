@@ -1,4 +1,4 @@
-<h1>SeleniumJavaFramework</h1>
+<h1>Website Automation Testing in Selenium using Java Framework</h1>
 <b>This Repository is about Automation Testing of a SuperiorPOD Website Using Selenium in java Framework.</b>
 
 <h2>Covered Topics</h2>
